@@ -2,11 +2,14 @@
 
 ## Objetivo
 
+Crear un clasificador de tipos de carnes que se utiliza en la industria real.
 ```
-Crear un clasificador de tipos de carnes que se utiliza en la industria real. 
+Tipos de clasificación de carnes:
+
+
 
 ```
-##Pametros de configuración a ser evaluados
+## Pametros de configuración a ser evaluados
 
 1. Repositorio de GitHub y Readme.md
 2. Preprocesado de imagenes
