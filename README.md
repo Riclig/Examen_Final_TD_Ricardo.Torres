@@ -40,3 +40,5 @@ Teniendo en cuenta los resultados de la matriz de confusión podemos concluir qu
 ## Recomendaciones
 
 Como proyecto a futuro sería necesario la mejora del algoritmo de clasificación posiblemente con un pre procesamiento de las imagenes con el fin de mejorar las clasificación de imagenes de tal manera que se vea mas marcada la diagonal principal de las matrices.
+
+## Fin del proyecto
